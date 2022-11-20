@@ -1,0 +1,13 @@
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\bin\Debug\netcoreapp3.1\TaskA.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\bin\Debug\netcoreapp3.1\TaskA.deps.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\bin\Debug\netcoreapp3.1\TaskA.runtimeconfig.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\bin\Debug\netcoreapp3.1\TaskA.runtimeconfig.dev.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\bin\Debug\netcoreapp3.1\TaskA.dll
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\bin\Debug\netcoreapp3.1\TaskA.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\obj\Debug\netcoreapp3.1\TaskA.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\obj\Debug\netcoreapp3.1\TaskA.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\obj\Debug\netcoreapp3.1\TaskA.AssemblyInfo.cs
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\obj\Debug\netcoreapp3.1\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\obj\Debug\netcoreapp3.1\TaskA.dll
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\obj\Debug\netcoreapp3.1\TaskA.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week4\Part A\TaskA\TaskA\obj\Debug\netcoreapp3.1\TaskA.genruntimeconfig.cache

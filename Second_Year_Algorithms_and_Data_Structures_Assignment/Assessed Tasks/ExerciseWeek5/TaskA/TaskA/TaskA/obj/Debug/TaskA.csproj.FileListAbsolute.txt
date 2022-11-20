@@ -1,0 +1,30 @@
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\bin\Debug\TaskA.exe.config
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\bin\Debug\TaskA.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\bin\Debug\TaskA.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\obj\Debug\TaskA.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\obj\Debug\TaskA.Form1.resources
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\obj\Debug\TaskA.Properties.Resources.resources
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\obj\Debug\TaskA.csproj.GenerateResource.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\obj\Debug\TaskA.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\TaskA\TaskA\obj\Debug\TaskA.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\bin\Debug\TaskA.exe.config
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\bin\Debug\TaskA.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\bin\Debug\TaskA.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\obj\Debug\TaskA.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\obj\Debug\TaskA.Form1.resources
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\obj\Debug\TaskA.Properties.Resources.resources
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\obj\Debug\TaskA.csproj.GenerateResource.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\obj\Debug\TaskA.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week5\PartA\TaskA\TaskA\obj\Debug\TaskA.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\bin\Debug\TaskA.exe.config
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\bin\Debug\TaskA.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\bin\Debug\TaskA.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\obj\Debug\TaskA.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\obj\Debug\TaskA.Form1.resources
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\obj\Debug\TaskA.Properties.Resources.resources
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\obj\Debug\TaskA.csproj.GenerateResource.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\obj\Debug\TaskA.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek5\TaskA\TaskA\TaskA\obj\Debug\TaskA.pdb

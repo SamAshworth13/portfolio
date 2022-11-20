@@ -1,0 +1,25 @@
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.deps.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.runtimeconfig.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.runtimeconfig.dev.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.dll
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.AssemblyInfo.cs
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.dll
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Week3\PartC\Equals_And_SubTree_Test\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.genruntimeconfig.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.exe
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.deps.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.runtimeconfig.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.runtimeconfig.dev.json
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.dll
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\bin\Debug\netcoreapp3.1\Equals_And_SubTree_Test.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.AssemblyInfo.cs
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.dll
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.pdb
+C:\Users\Sam\Documents\Uni\Second Year\Algorithms & Data Structures\Assessed Tasks\ExerciseWeek3\TaskB\TaskB\Equals_And_SubTree_Test\obj\Debug\netcoreapp3.1\Equals_And_SubTree_Test.genruntimeconfig.cache
